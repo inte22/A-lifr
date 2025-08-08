@@ -1,0 +1,4 @@
+*.dll filter=lfs diff=lfs merge=lfs -text
+*.dylib filter=lfs diff=lfs merge=lfs -text
+*.so filter=lfs diff=lfs merge=lfs -text
+A_Life_y/Library/PackageCache/com.unity.burst@*/.Runtime/libburst-llvm-18.dylib filter=lfs diff=lfs merge=lfs -text
